@@ -1,0 +1,18 @@
+<loadFolders>
+  <v1.4>
+    <li IfModActive="VanillaExpanded.VFEA">Mods and Shit/VFE Ancients</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods and Shit/VE Genetics</li>
+    <li IfModActive="sarg.alphagenes">Mods and Shit/Alpha Genes</li>
+    <li IfModActive="DanielWedemeyer.GeneRipper">Mods and Shit/Gene Ripper</li>
+    <li IfModActive="resplice.xotr.core">Mods and Shit/Resplice Core</li>
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods and Shit/VGE More Lab Stuff</li>
+  </v1.4>
+  <v1.5>
+    <li IfModActive="VanillaExpanded.VFEA">Mods and Shit/VFE Ancients</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods and Shit/VE Genetics</li>
+    <li IfModActive="sarg.alphagenes">Mods and Shit/Alpha Genes</li>
+    <li IfModActive="DanielWedemeyer.GeneRipper">Mods and Shit/Gene Ripper</li>
+    <li IfModActive="resplice.xotr.core">Mods and Shit/Resplice Core</li>
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods and Shit/VGE More Lab Stuff</li>
+  </v1.5>
+</loadFolders>
